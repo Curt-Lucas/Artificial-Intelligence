@@ -3,6 +3,7 @@ Collection of Artificial Intelligence Data
 
 ## Contents
  + Chat Messages (approx. 9000)
+ + Nicknames (approx. 7000)
 
 ## Donate
 CashApp: $yahooadmin 
