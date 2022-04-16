@@ -2,7 +2,7 @@
 Collection of Artificial Intelligence Data
 
 ## Contents
- + Chat Messages (approx. 9000)
+ + Chat Messages (approx. 23,000)
  + Nicknames (approx. 7000)
 
 ## Donate
